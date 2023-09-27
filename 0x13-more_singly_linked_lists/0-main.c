@@ -4,7 +4,7 @@
 #include "lists.h"
 
 /**
- * main - check the code
+ * main - check the coDes
  * 
  * Return: Always 0.
  */
