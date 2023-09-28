@@ -5,9 +5,9 @@
 #include <stdlib.h>
 
 /**
- * struct listint_s : singlylinked list
+ * struct listint_s :	This Ssingly linked list
  * @n: integer
- * @next: points to the next node
+ * @next: it points to the next node
  *
  * Description: singly linked list node structure
  * for alx project

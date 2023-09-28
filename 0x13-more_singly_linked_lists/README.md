@@ -1,1 +1,1 @@
-more singly linked
+ this project is of much more singly linked
