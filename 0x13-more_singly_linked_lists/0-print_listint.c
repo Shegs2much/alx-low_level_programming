@@ -2,7 +2,7 @@
 
 /**
  * print_listint - will print all the elements of a linked list
- * @h: type listint_t to print linked will be listed
+ * @h: type listint_t to print linked will be listed shegz
  *
  * Return: the numBer of nodes
  */
