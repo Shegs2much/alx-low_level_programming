@@ -3,7 +3,7 @@
 #include "main.h"
 
 /**
- * main - to check the code
+ * main - to check the code of shegz
  *
  * Return: Always 0.
  */
